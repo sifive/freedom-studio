@@ -7,3 +7,4 @@ Latest release is available through https://www.sifive.com/software and older re
 
 - Release 2019.05.0
 - Release 2019.08.2
+- Release 2020.06.3
